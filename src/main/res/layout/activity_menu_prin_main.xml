@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@color/list_background">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        tools:context="com.sia.chapid.mailboxuptc.Login.System.MenuPrinMain"
+        android:layout_weight="0.79"
+        android:background="@color/background_viewpager"/>
+
+
+    <ListView
+    android:layout_width="match_parent"
+    android:layout_height="270dp"
+    android:id="@+id/listView1"
+    android:divider="@color/list_divider"
+    android:layout_weight="0.30"
+    android:dividerHeight="0.5dp"
+
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"/>
+
+</LinearLayout>

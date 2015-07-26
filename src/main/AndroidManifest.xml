@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sia.chapid.mailboxuptc"
+    android:installLocation="preferExternal" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainHome"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login.System.MenuPrinMain"
+            android:label="@string/title_activity_menu_prin_main" >
+        </activity>
+        <activity android:name=".Login.Login" />
+        <activity android:name=".Login.Register" />
+        <activity
+            android:name=".Login.System.Encuesta"
+            android:label="@string/title_encuesta"
+            android:parentActivityName=".Login.System.MenuPrinMain" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.MenuPrinMain" />
+        </activity>
+        <activity
+            android:name=".Login.System.Mensaje"
+            android:label="@string/title_activity_mensaje"
+            android:parentActivityName=".Login.System.MenuPrinMain" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.MenuPrinMain" />
+        </activity>
+        <activity
+            android:name=".Login.System.Noticias"
+            android:label="@string/title_activity_noticias" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.MenuPrinMain" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Noticias.NoticiaUno"
+            android:label="@string/title_activity_noticia_uno" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Noticias" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Noticias.NoticiaDos"
+            android:label="@string/title_activity_noticia_dos" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Noticias" />
+        </activity>
+        <activity
+            android:name=".Login.System.Eventos"
+            android:label="@string/title_activity_eventos" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.MenuPrinMain" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Noticias.NoticiaTres"
+            android:label="@string/title_activity_noticia_tres" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Noticias" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Noticias.Noticia_Cuatro"
+            android:label="@string/title_activity_noticia__cuatro" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Noticias" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Noticias.NoticiaCinco"
+            android:label="@string/title_activity_noticia_cinco" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Noticias" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Noticias.NoticiaSeis"
+            android:label="@string/title_activity_noticia_seis" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Noticias" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Noticias.NoticiaSiete"
+            android:label="@string/title_activity_noticia_siete" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Noticias" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Eventos.EventoUno"
+            android:label="@string/title_activity_evento_uno" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Eventos" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Eventos.EventoDos"
+            android:label="@string/title_activity_evento_dos" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Eventos" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Eventos.EventoTres"
+            android:label="@string/title_activity_evento_tres" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Eventos" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Eventos.EventoCinco"
+            android:label="@string/title_activity_evento_cinco" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Eventos" />
+        </activity>
+        <activity
+            android:name=".Login.System.Pk_Eventos.EventoCuatro"
+            android:label="@string/title_activity_evento_cuatro" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.Eventos" />
+        </activity>
+        <activity
+            android:name=".Login.System.Atencion"
+            android:label="@string/title_activity_atencion" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.MenuPrinMain" />
+        </activity>
+        <activity
+            android:name=".Login.System.Sugerencias"
+            android:label="@string/title_activity_sugerencias" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Login.System.MenuPrinMain" />
+        </activity>
+    </application>
+
+</manifest>

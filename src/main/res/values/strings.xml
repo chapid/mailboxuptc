@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">MailBoxUptc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="require_name">Ingrese su Nombre por favor!</string>
+    <string name="require_email">Ingrese su Email por favor!</string>
+    <string name="require_telefono">Ingrese su Telefono por favor!</string>
+    <string name="valid_telefono">Ingrese un Telefono Valido!</string>
+    <string name="require_suger">Sugerencia,Queja o Reclamo ?</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">mailbox UPTC</string>
+    <string name="title_activity_menu_prin_main">Home MailBoxUptc</string>
+    <string name="title_activity_mensaje">Mensaje</string>
+    <string name="title_encuesta">Encuesta</string>
+    <string name="cuestion1">1.	Considera que la carrera de Ingeniería de sistemas y computación cuenta con un buen pensum académico?</string>
+    <string name="cuestion2">2.	El contenido programático de cada  uno de las asignaturas es el adecuado para su formación académica?</string>
+    <string name="cuestion3">3.	La escuela de ingeniería sistemas hace las gestiones necesarias para realizar diferentes actividades académicas y lúdicas?</string>
+    <string name="cuestion4">4.	La atención que presta la escuela de ingeniería de sistemas es respetuosa, cordial y de calidad frente a los estudiantes y/o docentes? </string>
+    <string name="cuestion5">5.	Las instalaciones con las que cuenta la carrera para desarrollar la academia son de buen ambiente y con buen funcionamiento? </string>
+    <string name="title_activity_noticias">Noticias</string>
+    <string name="noticia_uno">La Universidad Pedagógica y Tecnológica de Colombia, les da la bienvenida a los
+        estudiantes nuevos que entran a formar parte de la Familia Upetecista, a la vez, les hace la invitación
+        para que participen en las diferentes actividades programadas durante la Jornada de Inducción, en la Sede
+        Central de Tunja, Facultades Seccionales Chiquinquirá, Duitama, Sogamoso, Facultad Estudios a Distancia
+        y sus respectivos CREAD.  “Fortaleciendo la Formación Integral de la Comunidad Universitaria”</string>
+    <string name="title_activity_noticia_uno">Jornada Induccion</string>
+    <string name="title_activity_noticia_dos">Simposio</string>
+    <string name="noticia_dos">Simposio "Carta de Jamaica: Replanteamiento político-cultural de la independencia. 1815"
+    Coordinado por el grupo de investigación La Ilustración en la América Colonial
+    Fecha: 7 y 9 de septiembre de 2015
+    Lugar : La Casa Simón Bolívar y La Casa del Benemérito de las Américas “Benito Juárez”, ambas situadas en la calle Mercaderes,
+    entre Obrapía y Lamparilla, en La Habana, Cuba.
+    Envio de Ponecias:
+    El plazo máximo de envío de los resúmenes ponencias para ser presentadas en el Simposio "Carta de Jamaica: Replanteamiento
+    político-cultural de la independencia.1815", será el viernes 31 de julio del presente año. Deben ser enviados al
+    correo electrónico: grupo.hisula@uptc.edu.co
+</string>
+    <string name="title_activity_eventos">Eventos</string>
+    <string name="title_activity_noticia_tres">Beca Colciencias</string>
+    <string name="noticia_tres">Esta convocatoria se ofrece en el marco del acuerdo firmado entre Colciencias
+    y Georgia Institute of Technology, con el fin de fortalecer la ciencia, la tecnología y la innovación en el
+    país, así como las competencias investigativas en sectores estratégicos y las relaciones académicas y
+    científicas entre Colombia y EE.UU.La convocatoria, la cual ofrece cinco (5) becas, está dirigida
+    exclusivamente a aspirantes que vayan a realizar estudios de doctorado en áreas STEAM
+    (por sus siglas en inglés Science, Technology, Engineering, Agriculture and Mathematics) a partir
+    de agosto de 2016. Los recursos de Colciencias son otorgados bajo la figura de crédito educativo 100%
+    condonable de acuerdo con el Reglamento de Condonación de la Convocatoria.
+    Durante el proceso de selección se tendrá en cuenta:
+    La relevancia del programa de estudios, el área y el proyecto de investigación.
+    La proyección profesional del candidato para los intereses y metas académicas, científicas y de desarrollo de Colombia y sus regiones.
+    El potencial para lograr un impacto significativo en investigación dirigida hacia soluciones de problemas y la
+    innovación para contribuir al desarrollo de currículos y programas académicos en el país.
+    El impacto multiplicador de su conocimiento y competencias en investigación al regreso.
+    El potencial para crear vínculos sostenibles y productivos entre instituciones e investigadores de ambos países. </string>
+    <string name="title_activity_noticia__cuatro">Festividad</string>
+    <string name="noticia__cuatro">El grupo de Conductores de la UPTC y la Unidad de Política Social, invitan a participar en las
+    diferentes actividades en conmemoración a la Fiesta de la Virgen del Carmen. Del 7 al 16 de julio.</string>
+    <string name="title_activity_noticia_cinco">Convocatoria</string>
+    <string name="noticia_cinco">Los grupos de investigación “Historia y Prospectiva de la Universidad Latinoamericana”
+    –HISULA- e “Ilustración en América Colonial-ILAC” Convocan: A la comunidad académica a presentar sus ponencias dentro
+     del simposio: “Reformas y Movimientos Universitarios en América Latina y el Caribe. Historia y Prospectiva de la Universidad”
+     en el marco del XVII congreso de la FIEALC 2015, que se llevará a cabo en la ciudad de Buscan, Corea del Sur, del 25 al 28 de agosto.</string>
+    <string name="title_activity_noticia_seis">UPTC Firma</string>
+    <string name="noticia_seis">Con el propósito de visibilizar la actividad académica y establecer vínculos internacionales,
+    el rector encargado de la Universidad Pedagógica y Tecnológica de Colombia, Celso Antonio Vargas Gómez, firmó un convenio
+    marco de colaboración con la Universidad Autónoma de Querétaro, de los Estados Unidos Mexicanos, UAQ.
+    El convenio busca establecer las bases para la cooperación y colaboración en el ámbito académico, formación académica,
+   (Maestría y Doctorado), movilidad (pasantías e instancias cortas), trabajos de investigación en conjunto, extensión y
+    difusión de la cultura, y promoción de intercambios estudiantiles entre México y Colombia.
+    Las delegadas de la UAQ, Alejandra Urbiola Solís e Ilia Cásares Garrido, docente investigadora de la Facultad
+    de Contaduría y Administración, manifestaron que inicialmente realizarán el proceso de selección de 12 aspirantes
+    para cursar el Doctorado en Administración, con el que se materializará el convenio.</string>
+    <string name="title_activity_noticia_siete">Inscripciones</string>
+    <string name="noticia_siete"> Inscripciones Abiertas:
+Los Doctorados en Historia, y en Lenguaje y Cultura, amplían las fechas de inscripción para el segundo
+        semestre de 2015, hasta el 20 de julio, con la opción de participar en la beca de Colciencias. </string>
+    <string name="title_activity_evento_uno">EIMEM</string>
+    <string name="evento_uno">El programa de Licenciatura en Matemáticas y Estadística de la UPTC Duitama en alianza
+        con los programas de Matemáticas y Licenciatura de Matemáticas de la UPTC Tunja, aúnan esfuerzos para programar
+        y desarrollar este evento de carácter internacional, con el fin de conocer y debatir los avances de la comunidad
+        académica nacional e internacional en las áreas de Matemáticas, Estadística y Educación Matemática, buscando
+        mejores perspectivas pedagógicas y curriculares en los distintos niveles educativos de nuestro país.  </string>
+    <string name="title_activity_evento_dos">X Encuentro</string>
+    <string name="evento_dos">La Universidad Pedagógica y Tecnológica de Colombia desarrolla anualmente el ENCUENTRO DE LA
+        FACULTAD DE CIENCIAS, en ésta oportunidad celebramos el X encuentro, enmarcado en la XIX Jornada de Investigación,
+        los días 6, 7 y 8 de Octubre de 2015. El interés fundamental de estos encuentros es buscar espacios de actualización
+        y socialización de resultados y avances de proyectos de investigación en torno a las ciencias básicas. Igualmente generar
+        redes de investigación con investigadores y grupos reconocidos a nivel nacional e internacional. </string>
+    <string name="title_activity_evento_tres">EventoCuatro</string>
+    <string name="evento_tres">El X COLOQUIO Historia social y de las ciencias se llevará a cabo en la ciudad
+        de Kingston, Jamaica bajo el tema de la “Carta de Jamaica. Replanteamiento político cultural de la independencia.1815.”
+        Con la caracterización de estos coloquios asistirán sólo especialistas en el tema de la Ilustración y de la independencia
+        americana. En este caso, se enmarca dentro de la línea de investigación de Grupo de investigación "La Ilustración en América
+        Colonial". ILAC., sobre el pensamiento ilustrado de los criollos americanos. En concreto dentro del proyecto de investigación
+        “Discursos políticos de criollos ilustrados en las independencias americanas” que analiza el discurso político-social de los
+        criollos ilustrados, centrado en un imaginario de nación que plantearon desde la identidad geográfica, territorial y local
+        en los procesos de las independencias y formación de las nuevas naciones americanas. Pero en este caso con el Coloquio
+        nuestro propósito se centra en analizar desde diferentes miradas e interpretaciones, la época de 1815 cuando Simón Bolívar,
+        el criollo venezolano repensó la revolución americana.</string>
+    <string name="title_activity_evento_cuatro">XII Congreso</string>
+    <string name="evento_cuatro">La Red Iberoamericana de Informática Educativa (RIBIE) fue creada por el Subprograma VII de Electrónica
+    e Informática Aplicadas del CYTED. La conforman instituciones y grupos que desarrollan o aplican tecnologías de la información
+    a la solución de problemas educativos y grupos dedicados a la investigación, desarrollo e innovación de tecnologías en la educación
+    y la cultura. Propicia la comunicación y la colaboración entre sus miembros alrededor de la gestión de proyectos, la formulación
+    de políticas y desarrollo de estrategias para el mejoramiento de la educación desde su perspectiva científica y tecnológica. </string>
+    <string name="title_activity_evento_cinco">Congreso de Investigación</string>
+    <string name="evento_cinco">El congreso Nacional e Internacional de Investigación y Pedagogía, fue una idea que nació
+    con la creación de la Maestría en Educación en el año 2008 y cuyo objetivo inicial fue el de crear un espacio académico
+        para la reflexión, la socialización de investigaciones y el análisis de los problemas actuales en la educación
+        que afectan los procesos de enseñar y aprender dentro y fuera del aula.</string>
+    <string name="title_activity_atencion">Atencion</string>
+    <string name="title_activity_sugerencias">Sugerencias</string>
+
+</resources>
